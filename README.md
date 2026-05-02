@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:050816,25:0b1026,60:3b0764,100:ff00aa&text=MOAZ%20ALNOR&fontSize=50&fontColor=00F5D4&animation=fadeIn&fontAlignY=38&desc=%3E%20Cyberpunk%20Hacker%20Engineer%20%7C%20Robotics%20%7C%20Mechanical%20Design%20%7C%20Software&descAlignY=58&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:050816,25:0b1026,60:3b0764,100:ff00aa&text=MOAZ%20ALNOR&fontSize=50&fontColor=00F5D4&animation=fadeIn&fontAlignY=38&desc=%3E%20Engineer%20%7C%20Robotics%20%7C%20Mechanical%20Design%20%7C%20Software&descAlignY=58&descSize=16" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=1700&pause=700&color=00F5D4&center=true&vCenter=true&width=980&lines=Initializing+cyberdeck...;Loading+robotics+modules...;Syncing+mechanical+systems...;Compiling+Python+and+C%2B%2B...;Entering+the+grid...;Welcome+to+my+profile." alt="Typing animation" />
 
