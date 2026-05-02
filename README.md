@@ -141,11 +141,7 @@ I build practical systems where **engineering meets software** — from **roboti
 [ .. ] Building something awesome...
 ```
 
-</div>
 
-<div align="center">
-<img width="75%" src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Flying jet animation" />
-</div>
 
 ---
 
