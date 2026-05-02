@@ -172,6 +172,6 @@ I build practical systems where **engineering meets software** — from **roboti
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:ff00aa,50:3b0764,100:050816" width="100%" />
 
-### `Robotics // Software // Mechanical Design // Cyberpunk Builder`
+### `Robotics // Software // Mechanical Design `
 
 </div>
