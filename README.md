@@ -1,7 +1,6 @@
 <div align="center">
 
-<!-- CYBER / TERMINAL HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:020617,45:0f172a,75:1e1b4b,100:7c3aed&text=MOAZ%20ALNOR&fontSize=48&fontColor=00ff9c&animation=fadeIn&fontAlignY=38&desc=%3E%20Robotics%20%7C%20Mechanical%20Engineering%20%7C%20Software%20Development&descAlignY=58&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,45:0b1120,75:1e1b4b,100:7c3aed&text=MOAZ%20ALNOR&fontSize=44&fontColor=00ff9c&animation=fadeIn&fontAlignY=38&desc=%3E%20Robotics%20%7C%20Mechanical%20Engineering%20%7C%20Software%20Development&descAlignY=58&descSize=16" width="100%" />
 
 ```bash
 ┌──(moaz@github)-[~/profile]
@@ -9,13 +8,11 @@
 Robotics & Mechanical Engineer | ROS 2 | C++ | Python | SolidWorks | Full-Stack Developer
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2300&pause=800&color=00FF9C&center=true&vCenter=true&width=900&lines=Initializing+robotics+systems...;Compiling+C%2B%2B+modules...;Running+Python+automation...;Designing+mechanical+systems...;Deploying+engineering+software...;Access+granted." alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2600&pause=900&color=00FF9C&center=true&vCenter=true&width=950&lines=Building+robots...;Designing+mechanical+systems...;Writing+Python+and+C%2B%2B...;Creating+engineering+software...;Always+learning.+Always+building." alt="Typing animation" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=moaz644&label=PROFILE%20VIEWS&color=00ff9c&style=for-the-badge" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/moaz644?style=for-the-badge&color=7c3aed&labelColor=020617" alt="GitHub followers" />
-<img src="https://img.shields.io/github/stars/moaz644?style=for-the-badge&color=f59e0b&labelColor=020617" alt="GitHub stars" />
+<img src="https://komarev.com/ghpvc/?username=moaz-alnor&label=PROFILE%20VIEWS&color=00ff9c&style=for-the-badge" alt="Profile views" />
 
 </div>
 
@@ -23,28 +20,27 @@ Robotics & Mechanical Engineer | ROS 2 | C++ | Python | SolidWorks | Full-Stack 
 
 ## `> system.identity`
 
-<img align="right" alt="Cyber coding GIF" width="330" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" />
-
 ```txt
 USER        : Moaz Alnor
-HANDLE      : @moaz644
+HANDLE      : @moaz-alnor
 ROLE        : Robotics & Mechanical Engineer
-MODE        : Build / Debug / Deploy
 STACK       : ROS 2 | C++ | Python | SolidWorks | TypeScript
-MISSION     : Turn mechanical ideas into working intelligent systems
-STATUS      : Open to collaboration
+FOCUS       : Robotics | Automation | Mechanical Design | Software Development
+STATUS      : Building cool things
 ```
 
-I build practical engineering systems that combine **mechanical design**, **robotics**, **automation**, and **software development**.
+I build practical systems that combine **robotics**, **mechanical design**, **automation**, and **software development**.
 
-Current focus:
+---
+
+## `> current.focus`
 
 ```bash
 [+] Building robotics projects
 [+] Improving C++ and Python
 [+] Learning and applying ROS 2
-[+] Creating engineering-focused software tools
-[+] Developing a strong technical portfolio
+[+] Creating engineering-focused software
+[+] Growing a strong technical portfolio
 ```
 
 ---
@@ -53,7 +49,7 @@ Current focus:
 
 <div align="center">
 
-### `languages && dev_tools`
+### `languages && tools`
 
 <img src="https://skillicons.dev/icons?i=cpp,python,typescript,html,git,github,linux,vscode" />
 
@@ -63,137 +59,15 @@ Current focus:
 
 <img src="https://img.shields.io/badge/ROS%202-020617?style=for-the-badge&logo=ros&logoColor=00ff9c" />
 <img src="https://img.shields.io/badge/SolidWorks-020617?style=for-the-badge&logo=dassaultsystemes&logoColor=00ff9c" />
-<img src="https://img.shields.io/badge/Mechanical%20Design-020617?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Engineering%20Simulation-020617?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Automation-020617?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Mechanical%20Design-020617?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Engineering%20Simulation-020617?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Automation-020617?style=for-the-badge" />
 
 </div>
 
 ---
 
-## `> projects.featured`
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🌐 moaz644.github.io</h3>
-      <p>Personal portfolio website built with TypeScript.</p>
-      <p>
-        <img src="https://img.shields.io/badge/TypeScript-020617?style=for-the-badge&logo=typescript&logoColor=00ff9c" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge" alt="Portfolio" />
-      </p>
-      <a href="https://github.com/moaz644/moaz644.github.io">Access Repository</a>
-    </td>
-    <td width="50%">
-      <h3>🧠 Kgl_System</h3>
-      <p>Full-stack Stock & Sales Management ERP with role-based access.</p>
-      <p>
-        <img src="https://img.shields.io/badge/TypeScript-020617?style=for-the-badge&logo=typescript&logoColor=00ff9c" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/ERP-111827?style=for-the-badge" alt="ERP" />
-      </p>
-      <a href="https://github.com/moaz644/Kgl_System">Access Repository</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🔐 ShiftX</h3>
-      <p>Cross-platform security vault with a C++ cryptography engine and Python desktop UI.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-020617?style=for-the-badge&logo=python&logoColor=00ff9c" alt="Python" />
-        <img src="https://img.shields.io/badge/C++-020617?style=for-the-badge&logo=cplusplus&logoColor=00ff9c" alt="C++" />
-      </p>
-      <a href="https://github.com/moaz644/ShiftX">Access Repository</a>
-    </td>
-    <td width="50%">
-      <h3>💧 Oblique Projectile Water</h3>
-      <p>Python project focused on projectile motion and engineering simulation.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-020617?style=for-the-badge&logo=python&logoColor=00ff9c" alt="Python" />
-        <img src="https://img.shields.io/badge/Simulation-111827?style=for-the-badge" alt="Simulation" />
-      </p>
-      <a href="https://github.com/moaz644/oblique-projectile-water">Access Repository</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>⚡ Resistor Calculator</h3>
-      <p>Simple web app for calculating resistor values and electronics formulas.</p>
-      <p>
-        <img src="https://img.shields.io/badge/HTML-020617?style=for-the-badge&logo=html5&logoColor=00ff9c" alt="HTML" />
-        <img src="https://img.shields.io/badge/Electronics-111827?style=for-the-badge" alt="Electronics" />
-      </p>
-      <a href="https://github.com/moaz644/resistor-calculator">Access Repository</a>
-    </td>
-    <td width="50%">
-      <h3>🎮 Tic-Tac-Toe</h3>
-      <p>C++ terminal-based Tic-Tac-Toe game with basic game logic.</p>
-      <p>
-        <img src="https://img.shields.io/badge/C++-020617?style=for-the-badge&logo=cplusplus&logoColor=00ff9c" alt="C++" />
-        <img src="https://img.shields.io/badge/Game%20Logic-111827?style=for-the-badge" alt="Game Logic" />
-      </p>
-      <a href="https://github.com/moaz644/Tic-Tac-Toe">Access Repository</a>
-    </td>
-  </tr>
-</table>
-
----
-
-## `> github.telemetry`
-
-<div align="center">
-
-<img height="170" src="https://streak-stats.demolab.com?user=moaz644&theme=chartreuse-dark&hide_border=true&background=020617" alt="GitHub streak" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=moaz644&theme=react-dark&hide_border=true&bg_color=020617&color=00ff9c&line=7c3aed&point=f59e0b" alt="GitHub activity graph" />
-
-</div>
-
----
-
-## `> trophies.unlocked`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=moaz644&theme=matrix&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub trophies" />
-
-</div>
-
----
-
-## `> contribution.snake`
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/moaz644/moaz644/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
-</div>
-
-> Note: the snake animation only works after you add the GitHub Action that generates the SVG.
-
----
-
-## `> network.links`
-
-<div align="center">
-
-<a href="https://moazalnor.me">
-  <img src="https://img.shields.io/badge/Portfolio-moazalnor.me-020617?style=for-the-badge&logo=firefox&logoColor=00ff9c" alt="Portfolio" />
-</a>
-<a href="https://www.linkedin.com/in/moaz-abdelgader-alnor-422676192/">
-  <img src="https://img.shields.io/badge/LinkedIn-Moaz%20Alnor-020617?style=for-the-badge&logo=linkedin&logoColor=00ff9c" alt="LinkedIn" />
-</a>
-<a href="https://orcid.org/0009-0007-1851-5853">
-  <img src="https://img.shields.io/badge/ORCID-0009--0007--1851--5853-020617?style=for-the-badge&logo=orcid&logoColor=00ff9c" alt="ORCID" />
-</a>
-<a href="https://github.com/moaz644">
-  <img src="https://img.shields.io/badge/GitHub-moaz644-020617?style=for-the-badge&logo=github&logoColor=00ff9c" alt="GitHub" />
-</a>
-
-</div>
-
----
+## `> terminal.log`
 
 <div align="center">
 
@@ -207,86 +81,7 @@ Current focus:
 [OK] Portfolio upgrade in progress
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:7c3aed,50:1e1b4b,100:020617&section=footer" width="100%" />
-
-### `Robotics. Software. Mechanical Design. Build useful things.`
-
 </div>
-      <h3>🔐 ShiftX</h3>
-      <p>Cross-platform security vault with a C++ cryptography engine and Python desktop UI.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-020617?style=for-the-badge&logo=python&logoColor=00ff9c" alt="Python" />
-        <img src="https://img.shields.io/badge/C++-020617?style=for-the-badge&logo=cplusplus&logoColor=00ff9c" alt="C++" />
-      </p>
-      <a href="https://github.com/moaz644/ShiftX">Access Repository</a>
-    </td>
-    <td width="50%">
-      <h3>💧 Oblique Projectile Water</h3>
-      <p>Python project focused on projectile motion and engineering simulation.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-020617?style=for-the-badge&logo=python&logoColor=00ff9c" alt="Python" />
-        <img src="https://img.shields.io/badge/Simulation-111827?style=for-the-badge" alt="Simulation" />
-      </p>
-      <a href="https://github.com/moaz644/oblique-projectile-water">Access Repository</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>⚡ Resistor Calculator</h3>
-      <p>Simple web app for calculating resistor values and electronics formulas.</p>
-      <p>
-        <img src="https://img.shields.io/badge/HTML-020617?style=for-the-badge&logo=html5&logoColor=00ff9c" alt="HTML" />
-        <img src="https://img.shields.io/badge/Electronics-111827?style=for-the-badge" alt="Electronics" />
-      </p>
-      <a href="https://github.com/moaz644/resistor-calculator">Access Repository</a>
-    </td>
-    <td width="50%">
-      <h3>🎮 Tic-Tac-Toe</h3>
-      <p>C++ terminal-based Tic-Tac-Toe game with basic game logic.</p>
-      <p>
-        <img src="https://img.shields.io/badge/C++-020617?style=for-the-badge&logo=cplusplus&logoColor=00ff9c" alt="C++" />
-        <img src="https://img.shields.io/badge/Game%20Logic-111827?style=for-the-badge" alt="Game Logic" />
-      </p>
-      <a href="https://github.com/moaz644/Tic-Tac-Toe">Access Repository</a>
-    </td>
-  </tr>
-</table>
-
----
-
-## `> github.telemetry`
-
-<div align="center">
-
-<img height="170" src="https://streak-stats.demolab.com?user=moaz644&theme=chartreuse-dark&hide_border=true&background=020617" alt="GitHub streak" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=moaz644&theme=react-dark&hide_border=true&bg_color=020617&color=00ff9c&line=7c3aed&point=f59e0b" alt="GitHub activity graph" />
-
-</div>
-
----
-
-## `> trophies.unlocked`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=moaz644&theme=matrix&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub trophies" />
-
-</div>
-
----
-
-## `> contribution.snake`
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/moaz644/moaz644/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
-</div>
-
-> Note: the snake animation only works after you add the GitHub Action that generates the SVG.
 
 ---
 
@@ -295,16 +90,16 @@ Current focus:
 <div align="center">
 
 <a href="https://moazalnor.me">
-  <img src="https://img.shields.io/badge/Portfolio-moazalnor.me-020617?style=for-the-badge&logo=firefox&logoColor=00ff9c" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/PORTFOLIO-moazalnor.me-020617?style=for-the-badge&logo=firefox&logoColor=00ff9c" alt="Portfolio" />
 </a>
 <a href="https://www.linkedin.com/in/moaz-abdelgader-alnor-422676192/">
-  <img src="https://img.shields.io/badge/LinkedIn-Moaz%20Alnor-020617?style=for-the-badge&logo=linkedin&logoColor=00ff9c" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LINKEDIN-Moaz%20Alnor-020617?style=for-the-badge&logo=linkedin&logoColor=00ff9c" alt="LinkedIn" />
 </a>
 <a href="https://orcid.org/0009-0007-1851-5853">
   <img src="https://img.shields.io/badge/ORCID-0009--0007--1851--5853-020617?style=for-the-badge&logo=orcid&logoColor=00ff9c" alt="ORCID" />
 </a>
-<a href="https://github.com/moaz644">
-  <img src="https://img.shields.io/badge/GitHub-moaz644-020617?style=for-the-badge&logo=github&logoColor=00ff9c" alt="GitHub" />
+<a href="https://github.com/moaz-alnor">
+  <img src="https://img.shields.io/badge/GITHUB-moaz-alnor-020617?style=for-the-badge&logo=github&logoColor=00ff9c" alt="GitHub" />
 </a>
 
 </div>
@@ -312,16 +107,6 @@ Current focus:
 ---
 
 <div align="center">
-
-```bash
-┌──(moaz@github)-[~/build]
-└─$ ./deploy_future.sh
-
-[OK] Robotics systems online
-[OK] Mechanical designs loaded
-[OK] Software modules compiled
-[OK] Portfolio upgrade in progress
-```
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:7c3aed,50:1e1b4b,100:020617&section=footer" width="100%" />
 
